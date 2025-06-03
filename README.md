@@ -1,22 +1,23 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e64d2&height=200&section=header&text=Alejandro%20García%20Dopico&fontSize=40&fontAlign=center&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e64d2&height=150&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=30&fontColor=ffffff" />
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0E64D2&lines=Full-Stack+Web+Developer;AI+and+Big+Data+Graduate;Passionate+about+clean+code+and+smart+solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0E64D2&lines=Full-Stack+Web+Developer;AI+%26+Big+Data+Specialist;Clean+Code+Enthusiast;Always+learning+and+building" />
 </h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a versatile and detail-oriented full-stack developer from Barcelona, passionate about building modern, accessible, and efficient web applications.  
-I recently completed a **Master’s Certificate in Artificial Intelligence and Big Data**, and I'm currently seeking my next opportunity to grow and contribute to real-world digital solutions.
+Hi there! 👋 I'm Alejandro García Dopico, a full-stack web developer from Barcelona with a **Higher National Certificate in Web Application Development (CFGS DAW)** and a **Specialization Certificate in Artificial Intelligence and Big Data**.
 
-- 💼 Higher Degree in Web Application Development  
-- 🎓 Certified in AI and Big Data (Institut TIC, 2024)  
-- 💡 Focused on scalable, responsive, and maintainable code  
-- 📫 Contact: **dopico.dev@gmail.com**  
+I'm passionate about clean code, practical problem-solving, and building modern web experiences.  
+Currently looking for new challenges where I can grow, learn, and bring value to a team.
+
+- 🎓 Strong technical background and constant learner  
+- 💼 Open to exciting full-stack development opportunities  
+- 📫 Reach me at: **dopico.dev@gmail.com**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dopico-dev/) • [GitHub](https://github.com/Alejandro-Dopico)
 
 ---
@@ -24,52 +25,59 @@ I recently completed a **Master’s Certificate in Artificial Intelligence and B
 ### 🚀 Highlighted Projects
 
 - 🎤 [**Lyraoke-IA**](https://github.com/Alejandro-Dopico/Lyraoke-IA)  
-  AI-based voice/instrument separator using PyTorch — optimized for karaoke applications.
+  AI-powered voice/instrument separator using PyTorch — designed for karaoke-style applications.
 
 - 🎮 [**Connect 4 (Live App)**](https://connect4dopico.netlify.app)  
-  Multiplayer Connect 4 game built with modern JS and deployed online.  
+  A multiplayer Connect 4 game built with modern JavaScript.  
   → [Source Code](https://github.com/Alejandro-Dopico/Connect4)
 
+- 🧩 [**Connecta 4 - Canvas Edition**](https://github.com/Alejandro-Dopico/Connecta-4-Canvas)  
+  A lightweight HTML5 canvas version of Connect 4.  
+  → 🎮 [Play it here!](https://alejandro-dopico.github.io/Connecta-4-Canvas/)
+
 - 🏥 [**Clínica Montalbán**](https://github.com/Alejandro-Dopico/ClinicaMontalban)  
-  Website for a medical clinic built with HTML, CSS, JS and PHP.
+  Static medical clinic website built with HTML, CSS, JS and PHP.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🧰 Tech Stack Breakdown
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
+#### 📋 Languages:
+`Python` `JavaScript` `PHP` `Kotlin` `Bash` `Java` `Swift` `C`
+
+#### 📚 Frameworks, Platforms & Libraries:
+`Flask` `Django` `React` `Docker` `Terraform` `Ansible` `AWS`
+
+#### 🎨 Design & Architecture Tools:
+`Lucidchart` `Draw.io` `Miro` `Figma`
+
+#### 💻 IDEs / Editors:
+`VS Code` `IntelliJ IDEA` `NetBeans` `PyCharm` `Atom` `CodePen` `CodeSandbox` `Eclipse` `Xcode` `Android Studio`
+
+#### 🎛️ Operating Systems:
+`macOS` `Linux` `Ubuntu` `Windows` `iOS`
 
 ---
 
-### 🧠 Skills & Competencies
+### 🧠 Core Skills
 
-- Full-stack web development
-- REST API design & backend logic
-- Object-oriented programming
-- Version control (Git, GitHub)
-- Databases (MariaDB, SQL)
-- Clean code & best practices
-- Agile teamwork and task planning
+- Full-stack web development  
+- RESTful APIs and backend logic  
+- Object-oriented programming  
+- Version control (Git & GitHub)  
+- Relational databases (MariaDB, SQL)  
+- Agile methodologies and teamwork  
+- Writing scalable, clean and maintainable code
 
 ---
 
 ### 🌍 Languages
 
-| Language   | Level       |
-|------------|-------------|
-| 🇪🇸 Spanish  | Native      |
-| 🇨🇦 Catalan  | Native      |
-| 🇬🇧 English  | Intermediate |
+| Language   | Level         |
+|------------|---------------|
+| 🇪🇸 Spanish  | Native        |
+| 🇨🇦 Catalan  | Native        |
+| 🇬🇧 English  | Intermediate  |
 
 ---
 
@@ -81,11 +89,11 @@ I recently completed a **Master’s Certificate in Artificial Intelligence and B
 
 ---
 
-### 🎯 Current Focus
+### 🎯 Currently Focused On
 
-- Leveling up backend and DevOps skills  
-- Exploring practical AI integration  
-- Joining a dynamic team and growing professionally  
+- Mastering backend & DevOps best practices  
+- Building clean, smart full-stack apps  
+- Applying AI in real-world projects
 
 ---
 
