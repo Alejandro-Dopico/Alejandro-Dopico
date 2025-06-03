@@ -1,23 +1,41 @@
-<h1 align="center">¡Hola! 👋 Soy Alejandro García Dopico</h1>
-
 <p align="center">
-  Full-Stack Developer | Apasionado por la programación web moderna | Aprendiendo IA aplicada al desarrollo
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e64d2&height=200&section=header&text=Alejandro%20García%20Dopico&fontSize=40&fontAlign=center&fontColor=ffffff" />
 </p>
 
----
-
-### 💼 Sobre mí
-
-Soy una persona trabajadora, responsable y versátil, con gran capacidad para adaptarme a nuevos entornos y equipos de trabajo. Actualmente me estoy formando en Inteligencia Artificial y Big Data, tras finalizar el Grado Superior en Desarrollo de Aplicaciones Web.
-
-- 🌍 Ubicación: Barcelona, España
-- 🎯 Buscando oportunidades como desarrollador web
-- 📫 Contacto: **dopico.dev@gmail.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/dopico-dev/) | [GitHub](https://github.com/Alejandro-Dopico)
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0E64D2&lines=Full-Stack+Web+Developer;AI+and+Big+Data+Graduate;Passionate+about+clean+code+and+smart+solutions" />
+</h3>
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+### 👨‍💻 About Me
+
+I'm a versatile and detail-oriented full-stack developer from Barcelona, passionate about building modern, accessible, and efficient web applications.  
+I recently completed a **Master’s Certificate in Artificial Intelligence and Big Data**, and I'm currently seeking my next opportunity to grow and contribute to real-world digital solutions.
+
+- 💼 Higher Degree in Web Application Development  
+- 🎓 Certified in AI and Big Data (Institut TIC, 2024)  
+- 💡 Focused on scalable, responsive, and maintainable code  
+- 📫 Contact: **dopico.dev@gmail.com**  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dopico-dev/) • [GitHub](https://github.com/Alejandro-Dopico)
+
+---
+
+### 🚀 Highlighted Projects
+
+- 🎤 [**Lyraoke-IA**](https://github.com/Alejandro-Dopico/Lyraoke-IA)  
+  AI-based voice/instrument separator using PyTorch — optimized for karaoke applications.
+
+- 🎮 [**Connect 4 (Live App)**](https://connect4dopico.netlify.app)  
+  Multiplayer Connect 4 game built with modern JS and deployed online.  
+  → [Source Code](https://github.com/Alejandro-Dopico/Connect4)
+
+- 🏥 [**Clínica Montalbán**](https://github.com/Alejandro-Dopico/ClinicaMontalban)  
+  Website for a medical clinic built with HTML, CSS, JS and PHP.
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring)
@@ -33,30 +51,29 @@ Soy una persona trabajadora, responsable y versátil, con gran capacidad para ad
 
 ---
 
-### 🚀 Proyectos destacados
+### 🧠 Skills & Competencies
 
-🔹 [**Lyraoke-IA**](https://github.com/Alejandro-Dopico/Lyraoke-IA): Separación de voz e instrumentos con IA y PyTorch, pensado para aplicaciones de karaoke.
-
-🔹 [**Connect 4 (Juego Online)**](https://connect4dopico.netlify.app): Juego de 4 en línea desplegado y funcional.  
-→ Código fuente: [Repositorio GitHub](https://github.com/Alejandro-Dopico/Connect4)
-
-🔹 [**Clínica Montalbán**](https://github.com/Alejandro-Dopico/ClinicaMontalban): Web de clínica médica desarrollada con HTML, CSS, JS y PHP.
-
----
-
-### 💡 Competencias
-
-- Desarrollo web full-stack
-- Diseño de APIs REST y consumo en frontend
-- Bases de datos relacionales (MariaDB, SQL)
-- Programación orientada a objetos
-- Versionado de código con Git y GitHub
-- Buenas prácticas de desarrollo ágil
-- Trabajo en equipo, comunicación y eficiencia
+- Full-stack web development
+- REST API design & backend logic
+- Object-oriented programming
+- Version control (Git, GitHub)
+- Databases (MariaDB, SQL)
+- Clean code & best practices
+- Agile teamwork and task planning
 
 ---
 
-### 📈 GitHub Stats
+### 🌍 Languages
+
+| Language   | Level       |
+|------------|-------------|
+| 🇪🇸 Spanish  | Native      |
+| 🇨🇦 Catalan  | Native      |
+| 🇬🇧 English  | Intermediate |
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alejandro-Dopico&show_icons=true&theme=tokyonight" />
@@ -64,7 +81,14 @@ Soy una persona trabajadora, responsable y versátil, con gran capacidad para ad
 
 ---
 
-### 🎯 Objetivo actual
+### 🎯 Current Focus
 
-Estoy enfocado en desarrollar proyectos web modernos, escalables y funcionales, con el objetivo de incorporarme a un equipo donde pueda seguir creciendo como desarrollador.
+- Leveling up backend and DevOps skills  
+- Exploring practical AI integration  
+- Joining a dynamic team and growing professionally  
 
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0e64d2&height=120"/>
+</p>
