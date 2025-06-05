@@ -19,6 +19,7 @@ Currently looking for new challenges where I can grow, learn, and bring value to
 - 💼 Open to exciting full-stack development opportunities  
 - 📫 Reach me at: **dopico.dev@gmail.com**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dopico-dev/) • [GitHub](https://github.com/Alejandro-Dopico)
+- 📄 [Download my CV](./Alejandro_Garcia_Dopico_CV.pdf)
 
 ---
 
