@@ -27,15 +27,11 @@ Currently looking for new challenges where I can grow, learn, and bring value to
 - 🎤 [**Lyraoke-IA**](https://github.com/Alejandro-Dopico/Lyraoke-IA)  
   AI-powered voice/instrument separator using PyTorch — designed for karaoke-style applications.
 
-- 🎮 [**Connect 4 (Live App)**](https://connect4dopico.netlify.app)  
-  A multiplayer Connect 4 game built with modern JavaScript.  
-  → [Source Code](https://github.com/Alejandro-Dopico/Connect4)
-
 - 🧩 [**Connecta 4 - Canvas Edition**](https://github.com/Alejandro-Dopico/Connecta-4-Canvas)  
   A lightweight HTML5 canvas version of Connect 4.  
   → 🎮 [Play it here!](https://alejandro-dopico.github.io/Connecta-4-Canvas/)
 
-- 🏥 [**Clínica Montalbán**](https://github.com/Alejandro-Dopico/ClinicaMontalban)  
+- 🏥 [**Clínica Montalbán**](https://github.com/Alejandro-Dopico/Clinica-Montalban)  
   Static medical clinic website built with HTML, CSS, JS and PHP.
 
 ---
@@ -112,7 +108,7 @@ Currently looking for new challenges where I can grow, learn, and bring value to
 |------------|---------------|
 | 🇪🇸 Spanish  | Native        |
 | 🇨🇦 Catalan  | Native        |
-| 🇬🇧 English  | Intermediate  |
+| 🇬🇧 English  | High          |
 
 ---
 
