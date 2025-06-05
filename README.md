@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e64d2&height=150&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=25&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e64d2&height=150&section=header&text=Hi!%20I'm%20Alejandro%20👋&fontSize=30&fontColor=ffffff" />
 </p>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0E64D2&lines=Full-Stack+Web+Developer;AI+%26+Big+Data+Specialist;Clean+Code+Enthusiast;Always+learning+and+building" />
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=0E64D2&lines=Full-Stack+Web+Developer;AI+%26+Big+Data+Specialist;Clean+Code+Enthusiast;Always+learning+and+building" />
+</p>
+
 
 ---
 
