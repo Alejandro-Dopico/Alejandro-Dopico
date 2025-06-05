@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=0E64D2&lines=Full-Stack+Web+Developer;AI+%26+Big+Data+Specialist;Clean+Code+Enthusiast;Always+learning+and+building" />
 </p>
 
-
 ---
 
 ### 👨‍💻 About Me
